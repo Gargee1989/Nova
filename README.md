@@ -19,13 +19,13 @@ The development process follows a *GUI-first approach*, where interface design d
 
   2. Implementation Phase  
      *Tech Stack:*  
-1. HTML5: Semantic structure for GUI components such as headers, navigation bars, cards, and forms  
-2. CSS3: Styling and layout using Flexbox and Grid to ensure responsive and visually balanced interfaces  
-3. JavaScript: Enables client-side interactivity for GUI elements including:  
-   1. Navigation menu toggling  
-   2. Interactive buttons and hover states  
-   3. Form validation feedback  
-   4. Dynamic content rendering    
+      1. HTML5: Semantic structure for GUI components such as headers, navigation bars, cards, and forms  
+      2. CSS3: Styling and layout using Flexbox and Grid to ensure responsive and visually balanced interfaces  
+      3. JavaScript: Enables client-side interactivity for GUI elements including:  
+         1. Navigation menu toggling  
+         2. Interactive buttons and hover states  
+         3. Form validation feedback  
+         4. Dynamic content rendering    
                   
 The GUI is designed to be responsive, ensuring consistent user experience across devices and screen sizes.
 
