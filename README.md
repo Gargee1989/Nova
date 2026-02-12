@@ -1,4 +1,6 @@
 # Nova
+Authors: Gargee Kakaty and Kaustuva Kashyap
+
 **INTRODUCTION**  
 This project (Nova) involves the design and development of a GUI centric mock university website using core web technologies. The website is designed to visually simulate a real university portal, emphasizing *layout structure, visual hierarchy, consistency, and intuitive navigation*. Rather than prioritizing backend functionality, the project concentrates on how users perceive, navigate, and interact with a digital academic environment. The GUI acts as the primary medium through which information such as courses, admissions, and institutional details are communicated, ensuring clarity, accessibility, and aesthetic balance. *Nova* acts as a practical sandbox for experimenting with UI/UX design and browser-based logic, all without external frameworks. 
 
