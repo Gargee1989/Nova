@@ -65,55 +65,6 @@
     user-select: none;
   }
 
-/* ================= STATS ================= */
-
-.stats{
-  background:#fff;
-  box-shadow:0 -4px 60px rgba(0,0,0,0.12);
-  position:relative;
-  z-index:3;
-}
-
-.stats-grid{
-  display:grid;
-  grid-template-columns:repeat(4,1fr);
-}
-
-.stat-item{
-  padding:36px 20px;
-  text-align:center;
-  border-right:none;
-  transition: background 0.35s cubic-bezier(0.22, 1, 0.36, 1);
-}
-
-.stat-item:last-child{
-  border:none;
-}
-
-.stat-item:hover{
-  background:var(--navy);
-}
-
-.stat-item:hover .stat-number,
-.stat-item:hover .stat-label{
-  color:#fff;
-}
-
-.stat-number{
-  font-family:'Cormorant Garamond',serif;
-  font-size:54px;
-  color:var(--navy);
-  transition: color 0.35s cubic-bezier(0.22, 1, 0.36, 1);
-}
-
-.stat-label{
-  margin-top:8px;
-  text-transform:uppercase;
-  letter-spacing:1px;
-  font-size:12px;
-  color:var(--text-muted);
-}
-
 /* ================= SECTION COMMON ================= */
 
 section{
